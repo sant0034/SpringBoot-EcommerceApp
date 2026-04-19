@@ -4,7 +4,7 @@ A full-stack e-commerce web application built using Spring Boot and React. This 
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 ### Backend:
 - Java
@@ -28,7 +28,7 @@ A full-stack e-commerce web application built using Spring Boot and React. This 
 
 ---
 
-##  Features
+## ✨ Features
 
 - Display product listings
 - Fetch data from backend APIs using Fetch API
@@ -40,7 +40,7 @@ A full-stack e-commerce web application built using Spring Boot and React. This 
 
 ---
 
-## Project Structure
+## 🔗 Project Structure
 
 ```
 Backend/     --> Spring Boot backend
@@ -49,7 +49,7 @@ Frontend/    --> React frontend
 
 ---
 
-## How to Run the Project
+## ⚙️ How to Run the Project
 
 ### 1. Backend Setup (Spring Boot)
 
@@ -86,7 +86,7 @@ Frontend runs on: `http://localhost:5173`
 
 ---
 
-## API Endpoints (Sample)
+## 📡 API Endpoints (Sample)
 
 | Method | Endpoint        | Description           |
 |--------|----------------|-----------------------|
@@ -98,7 +98,7 @@ Frontend runs on: `http://localhost:5173`
 
 ---
 
-## Future Improvements
+## 📌 Future Improvements
 
 - Add authentication (JWT)
 - Implement cart and checkout functionality
@@ -108,7 +108,7 @@ Frontend runs on: `http://localhost:5173`
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 Santosh Yadav  
 GitHub: https://github.com/sant0034
