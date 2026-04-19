@@ -88,8 +88,6 @@ Frontend runs on: `http://localhost:5173`
 
 ## 📡 API Endpoints (Sample)
 
-## 📡 API Endpoints (Sample)
-
 | Method | Endpoint        | Description        |
 |--------|----------------|--------------------|
 | GET    | /products      | Get all products   |
