@@ -88,13 +88,15 @@ Frontend runs on: `http://localhost:5173`
 
 ## 📡 API Endpoints (Sample)
 
-| Method | Endpoint        | Description           |
-|--------|----------------|-----------------------|
-| GET    | /products      | Get all products      |
-| GET    | /products/{id} | Get product by ID     |
-| POST   | /products      | Add new product       |
-| PUT    | /products/{id} | Update product        |
-| DELETE | /products/{id} | Delete product        |
+## 📡 API Endpoints (Sample)
+
+| Method | Endpoint        | Description        |
+|--------|----------------|--------------------|
+| GET    | /products      | Get all products   |
+| GET    | /products/{id} | Get product by ID  |
+| POST   | /products      | Add new product    |
+| PUT    | /products/{id} | Update product     |
+| DELETE | /products/{id} | Delete product     |
 
 ---
 
