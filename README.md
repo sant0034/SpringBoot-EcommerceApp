@@ -1,6 +1,6 @@
 # SpringBoot E-Commerce Storefront (Full Stack)
 
-A full-stack e-commerce web application built using Spring Boot and React. This project demonstrates product listing, frontend-backend integration, and real-world application structure using modern technologies.
+This project demonstrates full-stack development using Spring Boot and React with REST API integration and modular architecture.
 
 ---
 
